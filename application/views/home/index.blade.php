@@ -141,6 +141,7 @@
 
       <footer>
         <p>Made by <a href="http://maxoffsky.com"> Maks</a> 2012, open source.</p>
+        <p>this is new modifications for git hubb</p>
       </footer>
 
     </div> <!-- /container -->
