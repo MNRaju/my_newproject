@@ -143,6 +143,8 @@
         <p>Made by <a href="http://maxoffsky.com"> Maks</a> 2012, open source.</p>
         <p>this is new modifications for git hubb</p>
         <p>New Modifications for githubb</p>
+		
+		<a href="#">This is the new modification for link</a>
       </footer>
 
     </div> <!-- /container -->
