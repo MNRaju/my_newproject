@@ -141,6 +141,7 @@
 
       <footer>
         <p>Made by <a href="http://maxoffsky.com"> Maks</a> 2012, open source.</p>
+        <p>this is modifications for merge.</p>
       </footer>
 
     </div> <!-- /container -->
